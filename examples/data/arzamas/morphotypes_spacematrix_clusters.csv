@@ -1,0 +1,12 @@
+cluster,l,fsi,mxi,l_interpretation,fsi_interpretation,mxi_interpretation,morphotype
+0,1.0,0.06849844968456997,0.004015848618813789,low-rise,low-density,non-residential,low-rise low-density non-residential
+1,1.0,0.11772225683552758,0.9,low-rise,low-density,residential,low-rise low-density residential
+2,2.9965056823299805,0.5662472232906978,0.623245143140301,low-rise,low-density,residential,low-rise low-density residential
+3,4.584859712405018,1.0324927954064977,0.8806794157803357,mid-rise,,residential,mid-rise residential
+4,1.0,0.1390294936953623,0.6424305082475315,low-rise,low-density,residential,low-rise low-density residential
+5,1.6511492861339607,0.28512098782146866,0.43724656819182284,low-rise,low-density,mixed-use,low-rise low-density mixed-use
+6,4.042744603647662,0.7029196048623072,0.7734511673444501,mid-rise,low-density,residential,mid-rise low-density residential
+7,6.088660814971072,1.5641486395639457,0.8935944361285989,high-mid-rise,,residential,high-mid-rise residential
+8,1.0348797956610214,0.18661747431995196,0.28966670742095557,low-rise,low-density,mixed-use,low-rise low-density mixed-use
+9,3.154991135516755,0.8933069272807663,0.5698837128909185,mid-rise,low-density,residential,mid-rise low-density residential
+10,1.8179194626996744,0.26373045771726505,0.7449393963297424,low-rise,low-density,residential,low-rise low-density residential

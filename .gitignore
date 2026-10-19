@@ -34,8 +34,15 @@ instance/
 # Environments
 .env
 .venv/
+.venv312/
 venv/
 ENV/
+
+# Данные ноутбука BlocksNet (крупные файлы: архив графов ~405 МБ, GeoJSON-кэш)
+examples/data/blocksnet/
+
+# Кэш ответов Overpass API и расчётов (временные файлы)
+cache/
 
 # MyPy
 .mypy_cache/
