@@ -49,3 +49,12 @@ cache/
 
 # PyCharm env
 .idea
+# School placement: local environments, logs and secrets
+school-placement_BACKUP_*/
+school-placement/.venv/
+school-placement/venv/
+school-placement/__pycache__/
+school-placement/.pytest_cache/
+school-placement/.streamlit/secrets.toml
+school-placement/*.log
+school-placement/**/*.log

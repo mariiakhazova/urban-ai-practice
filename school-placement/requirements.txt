@@ -1,0 +1,7 @@
+blocksnet[ipynb]==1.0.0a9
+geopandas>=1.0.0,<2.0.0
+streamlit
+streamlit-folium
+folium
+pandas
+numpy
